@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import AuthForm from '@/components/AuthForm'
 
 const SignUp = async () => {
@@ -8,4 +9,14 @@ const SignUp = async () => {
   )
 }
 
+=======
+import React from 'react'
+
+const SignUp = () => {
+  return (
+    <div>SignUp</div>
+  )
+}
+
+>>>>>>> 29e0156e133ca95de121493029b24a100914d2b5
 export default SignUp

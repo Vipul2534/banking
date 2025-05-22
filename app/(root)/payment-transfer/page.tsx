@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import HeaderBox from '@/components/HeaderBox'
 import PaymentTransferForm from '@/components/PaymentTransferForm'
 import { getAccounts } from '@/lib/actions/bank.actions';
@@ -28,4 +29,14 @@ const Transfer = async () => {
   )
 }
 
+=======
+import React from 'react'
+
+const Transfer = () => {
+  return (
+    <div>Transfer</div>
+  )
+}
+
+>>>>>>> 29e0156e133ca95de121493029b24a100914d2b5
 export default Transfer

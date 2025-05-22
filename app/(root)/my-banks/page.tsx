@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import BankCard from '@/components/BankCard';
 import HeaderBox from '@/components/HeaderBox'
 import { getAccounts } from '@/lib/actions/bank.actions';
@@ -37,4 +38,14 @@ const MyBanks = async () => {
   )
 }
 
+=======
+import React from 'react'
+
+const MyBanks = () => {
+  return (
+    <div>MyBanks</div>
+  )
+}
+
+>>>>>>> 29e0156e133ca95de121493029b24a100914d2b5
 export default MyBanks

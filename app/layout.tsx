@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 export const dynamic = 'force-dynamic'
 
+=======
+>>>>>>> 29e0156e133ca95de121493029b24a100914d2b5
 import type { Metadata } from "next";
 import { Inter, IBM_Plex_Serif } from "next/font/google";
 import "./globals.css";

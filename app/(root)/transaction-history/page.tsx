@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import HeaderBox from '@/components/HeaderBox'
 import { Pagination } from '@/components/Pagination';
 import TransactionsTable from '@/components/TransactionsTable';
@@ -72,4 +73,14 @@ const currentTransactions = account?.transactions.slice(
   )
 }
 
+=======
+import React from 'react'
+
+const TransactionHistory = () => {
+  return (
+    <div>TransactionHistory</div>
+  )
+}
+
+>>>>>>> 29e0156e133ca95de121493029b24a100914d2b5
 export default TransactionHistory
